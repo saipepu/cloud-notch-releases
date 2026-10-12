@@ -2,6 +2,18 @@
   "schema": 1,
   "releases": [
     {
+      "version": "1.3.0",
+      "build": 16,
+      "date": "2026-10-12",
+      "minimumSystemVersion": "15.6",
+      "url": "https://github.com/saipepu/cloud-notch-releases/releases/download/v1.3.0/CloudNotch-1.3.0.dmg",
+      "notesURL": "https://github.com/saipepu/cloud-notch-releases/releases/tag/v1.3.0",
+      "size": 6614548,
+      "sha256": "c078ec9c3bef19acb6713fceae64afe0a6ce051ea8eae527ffcd4cd3978fb81c",
+      "notes": "A record player in the Media tab, and a simpler Shelf.\n\n- **The Media tab is a record player.** What is playing is now a record that turns slowly, with the artwork as its label. It stops where it is when you pause. Beside it are a playing lamp, a line with a knob to drag to seek, and three round keys for previous, play or pause, and next. The record grows as you make the panel bigger, and holds still if Reduce Motion is on.\n- **The Shelf has one place to drop.** The whole tab keeps whatever you drop on it, and lights up orange while you drag over it. It is no longer split into a side that keeps and a side that sends, so a file can't go to AirDrop by landing in the wrong half.\n- **AirDrop from the list.** Every item on the Shelf now shows its AirDrop button all the time, not only under the pointer. Click an item to open it, or drag it back out, as before.",
+      "commit": "e812a70"
+    },
+    {
       "version": "1.2.0",
       "build": 15,
       "date": "2026-10-12",
