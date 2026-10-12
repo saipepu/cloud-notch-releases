@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "releases": [
+    {
+      "version": "1.2.0",
+      "build": 15,
+      "date": "2026-10-12",
+      "minimumSystemVersion": "15.6",
+      "url": "https://github.com/saipepu/cloud-notch-releases/releases/download/v1.2.0/CloudNotch-1.2.0.dmg",
+      "notesURL": "https://github.com/saipepu/cloud-notch-releases/releases/tag/v1.2.0",
+      "size": 6565954,
+      "sha256": "4c04503fc6aca82285da5563066bf593611f62fbc24a7336d3a62bbd77a2ab07",
+      "notes": "The first version you download from the website, instead of the Mac App Store.\n\n- **Direct download.** Cloud Notch now comes as a disk image, signed with a Developer ID and notarized by Apple. Open it and drag the app to Applications.\n- **Tells you when there is an update.** Once a day the app checks whether a newer version is out. When one is, a blue arrow appears in the notch's tab bar, and Settings → General shows what is new with a Download button. Nothing is installed for you, and the check can be turned off.\n- **Live plan usage is now your choice.** It is off until you turn it on, in the welcome tour or in Settings → Plan Figures. Turned on, Cloud Notch uses the login Claude Code keeps in your Keychain to ask Anthropic for your 5-hour and weekly figures, as before. Off, it reads no login and sends nothing, and the notch shows the figures Claude Code saves itself. If you used live figures before, turn them on again once; the notch has a \"Show live usage\" link for it.",
+      "commit": "f5c7360"
+    }
+  ]
+}
