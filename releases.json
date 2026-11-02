@@ -2,6 +2,18 @@
   "schema": 1,
   "releases": [
     {
+      "version": "1.4.0",
+      "build": 17,
+      "date": "2026-11-02",
+      "minimumSystemVersion": "15.6",
+      "url": "https://github.com/saipepu/cloud-notch-releases/releases/download/v1.4.0/CloudNotch-1.4.0.dmg",
+      "notesURL": "https://github.com/saipepu/cloud-notch-releases/releases/tag/v1.4.0",
+      "size": 7247500,
+      "sha256": "bd6e9182e45fb9c0716ec32fbdcc54aa140e753c3a5415f0fb4ca04f0afbbade",
+      "notes": "Codex in the notch, a welcome tour you can finish before Claude Code is installed, and a tidier installer.\n\n- **Codex agents, beside Claude's.** The Agents tab has a Claude | Codex switch at its top. Codex agents show the same statuses, raise the same banners and play the same sounds, and the Codex side shows Codex's own 5-hour and weekly figures. Connect it once with the command in Settings → Codex. Codex approvals can be allowed or denied from the notch.\n- **Set up later.** The welcome tour no longer insists on a Claude Code folder. On a Mac without Claude Code yet, choose Set up later and finish the tour. Cloud Notch finds `~/.claude` by itself once Claude Code is installed, with nothing to restart. Until then the Agents tab says it is waiting, with a Set up button for a folder somewhere else.\n- **A proper install window.** The disk image opens to a window that shows the app, an arrow and the Applications folder, with nothing else in the way.",
+      "commit": "0551aa1"
+    },
+    {
       "version": "1.3.0",
       "build": 16,
       "date": "2026-10-12",
